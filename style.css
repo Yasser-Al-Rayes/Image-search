@@ -64,7 +64,7 @@ form{
     color: #333333;
     font-size: 18px;
     border-radius: 1px;
-    width: 180px;
+    width: 15vw;
     height: 42px;
     font-weight: bold;
     transition: 0.3s;
@@ -154,5 +154,10 @@ form{
     .search-result{
         width: 100% ;
     }
+     .original-button{
+        width: 20vw;
+        font-size:90%;
+    }
+    
     
 }
