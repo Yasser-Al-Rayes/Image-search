@@ -157,6 +157,7 @@ form{
      .original-button{
         width: 20vw;
         font-size:90%;
+         box-shadow: 1px 1px 20px 0px rgba(236, 235, 235, 0.249);
     }
     
     
