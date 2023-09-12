@@ -50,6 +50,9 @@ form{
     border-width: 0 0 2px 0;
     color: #333;
 }
+#search-input:focus{
+    color: azure;
+}
 
 #search-input ::placeholder{
     color: rgba(41, 40, 40, 0.203);
